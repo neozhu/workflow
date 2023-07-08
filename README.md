@@ -4,6 +4,15 @@
 
 ApprovalFlow is an enterprise-level, internal application workflow approval system designed to streamline the process of request submissions and approvals. This system incorporates eight types of application forms and seven key functionality modules. It's built on a robust technical framework that ensures a smooth, efficient, and reliable user experience.
 
+## Demo Website
+
+You can view a live demo of the ApprovalFlow system at [https://workflow.blazorserver.com/](https://workflow.blazorserver.com/). 
+
+Login details are as follows:
+
+- **Username:** administrator
+- **Password:** Password123!
+
 ## Form Types
 
 1. **Permit To Work (PTW)** - For contractor job applications
@@ -30,5 +39,14 @@ ApprovalFlow is an enterprise-level, internal application workflow approval syst
 1. **dotnet 7**
 2. **Blazor Server Application**
 3. **Entity Framework Core**
+
+## Deployment
+
+Follow these steps for deployment:
+
+1. **Clone the project**
+2. **Unzip the release.zip file**
+3. **Install database - MS Sql server Express is recommended**
+4. **Configure IIS**
 
 With its wide array of form types and functionalities, ApprovalFlow aims to provide an all-in-one solution for managing and handling various approval workflows within an enterprise, promoting efficiency and transparency.
