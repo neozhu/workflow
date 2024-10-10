@@ -12,6 +12,9 @@ Login details are as follows:
 
 - **Username:** administrator
 - **Password:** Password123!
+- 
+![image](https://github.com/user-attachments/assets/a879c008-4721-4fd6-ac30-453f4ab8aced)
+
 
 Demo Video: [Link to Demo Video][(https://youtu.be/vO4fD7GG5Vc](https://youtu.be/Tr9utCQvovA))
 [![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/1549611/246611646-ad286498-8459-42c1-88dd-92776bfd35ae.png)](https://youtu.be/Tr9utCQvovA)
